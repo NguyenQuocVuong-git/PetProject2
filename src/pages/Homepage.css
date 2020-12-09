@@ -1,0 +1,28 @@
+.homepagecss {
+    justify-content: center;
+    text-align:  center;
+}
+.main-content {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.ant-table-wrapper {
+    /* clear: both; */
+    max-width: 100%;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}
+.ant-spin-nested-loading {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    background-color: pink;
+    margin-left: 25%;
+    margin-right: 25%;
+}

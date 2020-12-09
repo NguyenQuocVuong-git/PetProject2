@@ -1,0 +1,87 @@
+
+.ant-btn-primary {
+    color: #fff;
+    background: #1890ff;
+    border-color: #1890ff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+}
+
+.ant-btn-dangerous {
+    color: #fff;
+    background: #ff4d4f;
+    border-color: #ff4d4f;
+    text-shadow: 0 -1px 0 rgba(0,0,0,.12);
+    -webkit-box-shadow: 0 2px 0 rgba(0,0,0,.045);
+    box-shadow: 0 2px 0 rgba(0,0,0,.045);
+}
+
+.ant-btn-dangerous:hover {
+    color: #fff;
+    background: #ff4d4f;
+}
+.action-btn {
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-complete {
+    margin-bottom: 10px;
+}
+
+.ant-form {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+.selection-are {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.btn-add-todo {
+    text-align: center;
+    width: 50%;
+}
+
+.ant-btn-primary[disabled], .ant-btn-primary[disabled]:hover, .ant-btn-primary[disabled]:focus, .ant-btn-primary[disabled]:active {
+    width: 100%;
+}
+
+.ant-popover-buttons button {
+    margin-left: 8px;
+    width: 25%;
+}
+
+.active {
+    text-decoration: line-through;
+}
+
+.ant-table-tbody .ant-table-cell .ant-btn .anticon .svg {
+    display: none;
+}
+
+svg {
+    color: red;
+}
+
+.ant-table.ant-table-middle {
+    width: 667px;
+}
+
+
+.ant-notification svg {
+    color: #1890ff;
+}
+
+.ant-popover-inner-content svg {
+    color: yellow;
+}
+
+.ant-pagination .ant-pagination-next button {
+    border-color: #26292a47;
+}

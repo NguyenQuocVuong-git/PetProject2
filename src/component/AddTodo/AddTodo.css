@@ -1,0 +1,12 @@
+.title-add {
+    text-align: center;
+    font-size: 24px;
+}
+.ant-btn-primary {
+    color: #fff;
+    background: #1890ff;
+    border-color: #1890ff;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.045);
+    width: 100%
+}
